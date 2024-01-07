@@ -1,0 +1,97 @@
+# Laravel storage files
+/storage/*.key
+/storage/debugbar
+/storage/logs/*.log
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/framework/backups/*
+
+# Laravel bootstrap files
+/bootstrap/cache/*
+/bootstrap/cache/*.php
+
+# Laravel mix files
+/public/css/*
+/public/js/*
+/public/mix-manifest.json
+/public/hot
+
+# Laravel vendor directory
+/vendor
+
+# Laravel testing database
+/database/testing.sqlite
+
+# Laravel environment file
+.env
+
+# Laravel Homestead
+Homestead.yaml
+Homestead.json
+
+# Laravel IDE helper
+.phpstorm.meta.php
+
+# Laravel Forge
+forge.yml
+
+# Laravel Envoy
+.envoy.php
+
+# Laravel Cashier
+# .env.example
+
+# Laravel Passport
+# .env.example
+
+# Laravel Spark
+# .env.example
+
+# Laravel Telescope
+# .env.example
+
+# Laravel Nova
+# .env.example
+
+# Laravel Scout
+# .env.example
+
+# Laravel Horizon
+# .env.example
+
+# Laravel Vapor
+# .env.example
+
+# Laravel Jetstream
+# .env.example
+
+# Laravel Dusk
+# .env.dusk
+
+# Laravel Sail
+# sail_docker_compose.yml
+
+# Composer dependencies
+/composer.phar
+/vendor
+/vendor-bin
+/node_modules
+.npm
+/public/hot
+
+# Logs and databases
+/storage/*.log
+/storage/*.sqlite
+/storage/*.sqlite3
+/storage/*.sqlite3-journal
+
+# User-specific files
+Homestead.json
+Homestead.yaml
+.idea
+*.iml
+*.log
+*.pot
+*.swp

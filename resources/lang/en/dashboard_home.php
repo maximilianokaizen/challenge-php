@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'header_title' => 'Discounts',
+    'header_description' => 'In this section you can view the list of descounts.',
+    'btn_new_descount' => 'New Descount',
+    'export' => 'Export',
+    'region' => 'Region',
+    'name' => 'Name',
+    'awd_bcd' => 'AWD/BCD',
+    'select' => 'Select',
+    'enter' => 'Enter',
+    'missing' => 'Missing',
+    'search' => 'Search',
+    'clear_filters' => 'Clear Filters',
+    'table_headers' => [
+        'rental' => 'Rental',
+        'region' => 'Region',
+        'name' => 'Name ',
+        'access_type' => 'Access Type ',
+        'status' => 'Status ',
+        'period' => 'Period ',
+        'awd_bcd' => 'AWD/BCD ',
+        'gsa_discounts' => 'GSA Discounts ',
+        'promotion_period' => 'Promotion Period ',
+        'priority' => 'Priority ',
+    ],
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+];
