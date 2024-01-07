@@ -47,7 +47,6 @@ class DiscountController extends Controller
             $this->createDiscountRanges($discount, $validatedData);
             return redirect()->route('dashboard')->with('success', __('Descuento creado con éxito.'));
         } catch (\Exception $e) {
-            dd($e);
             return redirect()->back()->with('error', $e->getMessage())->withInput();
         }
     }
@@ -167,7 +166,6 @@ class DiscountController extends Controller
 
     public function destroy($id)
     {
-        // Lógica de eliminación...
     }
 
     private function mapRequestData($data)
