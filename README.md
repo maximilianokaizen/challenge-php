@@ -26,5 +26,8 @@ Para obtener más ayuda sobre el uso de Sail, puede ejecutar `./vendor/bin/sail 
 
 ## Screenshots
 
+
+![image](https://github.com/maximilianokaizen/challenge-php/assets/148482605/1e6e12ed-e016-4fdc-8dd0-0788fad7b416)
+
 ![image](https://github.com/maximilianokaizen/challenge-php/assets/148482605/286c4248-6454-443f-8f0f-1c81173a4e97)
 
