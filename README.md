@@ -23,3 +23,8 @@ chmod -R 777 /var/www/html/storage/logs/
 chmod -R 777 /var/www/html/storage/framework/
 
 Para obtener más ayuda sobre el uso de Sail, puede ejecutar `./vendor/bin/sail -h` o revisar la [documentación oficial de Laravel Sail](https://laravel.com/docs/10.x/sail).
+
+## Screenshots
+
+![image](https://github.com/maximilianokaizen/challenge-php/assets/148482605/286c4248-6454-443f-8f0f-1c81173a4e97)
+
