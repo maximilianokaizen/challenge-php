@@ -3,6 +3,10 @@
 El proyecto fue creado utilizando Laravel 10, usando sails, con docker en un OS Linux.
 En el sitio oficial de laravel se encuentran las guías para el setup del mismo.
 
+Versiones de php
+
+PHP 8.2.14 
+
 [Guía de Laravel 10 con Sail](https://laravel.com/docs/10.x#sail-on-linux)
 
 ## Setup
